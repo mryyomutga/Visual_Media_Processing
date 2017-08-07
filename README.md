@@ -1,4 +1,4 @@
-# Visual_Media_Processing
+# Visual Media Processing
 映像メディア処理 最終レポート
 
 ## Environment
@@ -12,4 +12,5 @@
 4. 各連結成分に色を付ける
 
 ## Note
-OpenCV for Processingライブラリを使用
+- OpenCV for Processingライブラリを使用
+- C# , Pythonで書いた方がよい
